@@ -8,7 +8,7 @@
 
 包括 Liinux、k8s、jenkins、zabbix、Elasticsearch、Prometheus、Mysql、Redis、kafka、ELK、Memcached、MongoDB、Redis、MySQL、RabbitMQ、Netty、Tomcat、等大厂面试题等、等技术栈！
 
-## 10000+ 道，面试题技术大类，索引，直达
+## linux运维相关的面试题都已经整理到位了，非常的齐全，有准备跳槽的小伙伴可以拿去学习
 
 |   |   |    |    |     |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
