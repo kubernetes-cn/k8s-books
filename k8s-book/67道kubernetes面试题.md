@@ -1,4 +1,3 @@
-### [1.简述ETCD及其特点？](https://github.com/kubernetes-cn/k8s-books/blob/main/k8s-book/1.md#1.简述ETCD及其特点？)
 ### [1.简述ETCD及其特点？](https://github.com/kubernetes-cn/k8s-books/blob/main/k8s-book/67道kubernetes面试题.md#1.简述ETCD及其特点？)
 
 
