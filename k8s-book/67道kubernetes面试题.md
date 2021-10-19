@@ -1,4 +1,5 @@
-### 1.简述ETCD及其特点？
+### [1.简述ETCD及其特点？](https://github.com/kubernetes-cn/k8s-books/blob/main/k8s-book/67道kubernetes面试题.md#1.简述ETCD及其特点？)
+
 
 - etcd 是 CoreOS 团队发起的开源项目，是一个管理配置信息和服务发现（service discovery）的项目，它的目标是构建一个高可用的分布式键值（key-value）数据库，基于 Go 语言实现。
 
@@ -210,7 +211,7 @@
 - Taint：使Node拒绝特定Pod运行；
 - Toleration：为Pod的属性，表示Pod能容忍（运行）标注了Taint的Node。
 
-### 25.简述Kubernetes初始化容器（init container）？
+### [25.简述Kubernetes初始化容器（init container）](https://github.com/kubernetes-cn/k8s-books/blob/main/k8s-book/67道kubernetes面试题.md)
 
 - init container的运行方式与应用容器不同，它们必须先于应用容器执行完成，当设置了多个init container时，将按顺序逐个运行，并且只有前一个init container运行成功后才能运行后一个init container。当所有init container都成功运行后，Kubernetes才会初始化Pod的各种信息，并开始创建和运行应用容器。
 
